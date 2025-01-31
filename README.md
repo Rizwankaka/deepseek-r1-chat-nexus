@@ -22,28 +22,30 @@ A collection of different chat interfaces for interacting with the Deepseek lang
 - Deepseek model pulled in Ollama
 
 ### 1️⃣ Clone the Repository
-bash
-git clone <your-repo-url>
-cd <repo-name>
-
+```bash
+git clone [url](https://github.com/Rizwankaka/deepseek-r1-chat-nexus)
+cd deepseek-r1-chat-nexus
+```
 ### 2️⃣ Create Virtual Environment
-# Using conda
+#### Using conda
 conda create -p venv python==3.11 -y
 conda activate ./venv
 
-# OR using venv
+#### OR using venv
 python -m venv venv
-# For Windows
+#### For Windows
 .\venv\Scripts\activate
-# For Unix/MacOS
+#### For Unix/MacOS
 source venv/bin/activate
 
 ### 3️⃣ Install Dependencies
-bash:README.md
+```bash
 pip install -r requirements.txt
-
+```
 ### 4️⃣ Pull the Deepseek Model
-
+```bash
+ollama pull deepseek-r1:1.5b
+```
 ## 🚀 Running the Applications
 
 ### Gradio Interface
@@ -65,7 +67,7 @@ streamlit run streamlit.py
 ### Chainlit Interface
 ```bash
 chainlit run chainlit.py
-```README.md
+```
 - ⚡ Modern, professional chat interface
 - 🔥 Real-time streaming responses
 - 📊 Enhanced UI elements
@@ -108,5 +110,5 @@ Feel free to:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Rizwan Rizwan
 
