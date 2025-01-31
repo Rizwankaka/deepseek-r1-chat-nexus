@@ -30,6 +30,7 @@ cd deepseek-r1-chat-nexus
 ### 2️⃣ Create Virtual Environment
 #### Using conda
 conda create -p venv python==3.11 -y
+
 conda activate ./venv
 
 #### OR using venv
