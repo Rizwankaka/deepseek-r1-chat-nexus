@@ -108,8 +108,7 @@ Feel free to:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rizwankaka/deepseek-r1-chat-nexus/blob/main/LICENSE) file for details.
 ---
 Made with ❤️ by Rizwan Rizwan
 
