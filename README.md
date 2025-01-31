@@ -31,7 +31,7 @@ cd deepseek-r1-chat-nexus
 #### Using conda
 conda create -p venv python==3.11 -y
 
-conda activate ./venv
+conda activate venv/
 
 #### OR using venv
 python -m venv venv
