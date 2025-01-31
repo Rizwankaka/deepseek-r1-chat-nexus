@@ -22,10 +22,10 @@ A collection of different chat interfaces for interacting with the Deepseek lang
 - Deepseek model pulled in Ollama
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone [url](https://github.com/Rizwankaka/deepseek-r1-chat-nexus)
+
+git clone [Github repp](https://github.com/Rizwankaka/deepseek-r1-chat-nexus/)
 cd deepseek-r1-chat-nexus
-```
+
 ### 2️⃣ Create Virtual Environment
 #### Using conda
 conda create -p venv python==3.11 -y
