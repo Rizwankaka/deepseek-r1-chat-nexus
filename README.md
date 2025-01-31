@@ -1,6 +1,6 @@
 # 🤖 Deepseek AI Chat Interface Collection
 
-A collection of different chat interfaces for interacting with the Deepseek language model through Ollama. Features multiple UI options including Gradio, Streamlit, and Chainlit! 
+A collection of different chat interfaces for interacting with the DeepseekR1 language model through Ollama. Features multiple UI options including Gradio, Streamlit, and Chainlit! 
 
 ## ✨ Features
 
