@@ -24,6 +24,7 @@ A collection of different chat interfaces for interacting with the Deepseek lang
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/Rizwankaka/deepseek-r1-chat-nexus
+
 cd deepseek-r1-chat-nexus
 
 ### 2️⃣ Create Virtual Environment
