@@ -18,7 +18,7 @@ A collection of different chat interfaces for interacting with the Deepseek lang
 ### Prerequisites
 
 - Python 3.11+ 
-- [Ollama](https://ollama.ai/) installed and running
+- [Ollama](https://ollama.com/) installed and running
 - Deepseek model pulled in Ollama
 
 ### 1️⃣ Clone the Repository
@@ -79,8 +79,7 @@ ollama==0.1.6
 gradio==4.19.2
 streamlit==1.31.1
 chainlit==0.7.700
-```README.md
-
+```
 ## 💡 Tips
 
 - Make sure Ollama is running in the background before starting any interface
