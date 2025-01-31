@@ -77,10 +77,10 @@ chainlit run chainlit.py
 ## 📦 Dependencies
 
 ```txt
-ollama==0.1.6
-gradio==4.19.2
-streamlit==1.31.1
-chainlit==0.7.700
+ollama==0.4.7
+gradio==5.14.0
+streamlit==1.39.0
+chainlit==2.1.0
 ```
 ## 💡 Tips
 
